@@ -1,0 +1,5 @@
+DATASET:
+  NAME: "ImageNet"
+  
+CMA:
+  WEIGHT: 0.1

@@ -1,0 +1,5 @@
+DATASET:
+  NAME: "OxfordFlowers"
+
+CMA:
+  WEIGHT: 0.7

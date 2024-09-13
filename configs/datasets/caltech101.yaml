@@ -1,0 +1,5 @@
+DATASET:
+  NAME: "Caltech101"
+
+CMA:
+  WEIGHT: 0.8

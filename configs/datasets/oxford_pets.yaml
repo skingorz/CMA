@@ -1,0 +1,5 @@
+DATASET:
+  NAME: "OxfordPets"
+  
+CMA:
+  WEIGHT: 0.9

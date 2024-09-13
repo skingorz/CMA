@@ -1,0 +1,9 @@
+DATASET:
+  NAME: "DescribableTextures"
+  
+CMA:
+  SHOT1: 0.4
+  SHOT2: 0.4
+  SHOT4: 0.7
+  SHOT8: 0.7
+  SHOT16: 0.7

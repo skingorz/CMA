@@ -1,0 +1,9 @@
+DATASET:
+  NAME: "UCF101"
+  
+CMA:
+  SHOT1: 0.8
+  SHOT2: 0.8
+  SHOT4: 0.8
+  SHOT8: 0.6
+  SHOT16: 0.6

@@ -1,0 +1,9 @@
+DATASET:
+  NAME: "EuroSAT"
+  
+CMA:
+  SHOT1: 0.1
+  SHOT2: 0.1
+  SHOT4: 0.1
+  SHOT8: 0.1
+  SHOT16: 0.1

@@ -1,0 +1,5 @@
+DATASET:
+  NAME: "SUN397"
+  
+CMA:
+  WEIGHT: 0.2

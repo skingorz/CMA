@@ -1,0 +1,5 @@
+DATASET:
+  NAME: "Food101"
+  
+CMA:
+  WEIGHT: 0.8
